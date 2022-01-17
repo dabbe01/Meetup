@@ -1,0 +1,38 @@
+{
+    "Meetups" : [
+        {
+            "id": "1",
+            "classname": "overwatch",
+            "name": "Overwatch",
+            "date": "2022-6-22",
+            "description": "Overwatch summer event, we talk about new gamemodes, new hero and much more. Join the event so you dont miss nothing. ",
+            "comments": []
+        },
+        {
+            "id": "2",
+            "classname": "league-of-legends",
+            "name": "League of Legends",
+            "date": "2022-02-21",
+            "description": "League of Legends tournament event. Join the event to see more.  ",
+            "comments": []
+        },
+        {
+            "id": "3",
+            "classname": "phasmophobia",
+            "name": "Phasmophobia",
+            "date": "2022-8-23",
+            "description": "Phasmophobia, do you like ghost and discovery what kind of ghost it is.",
+            "comments": []
+        },
+        {
+            "id": "4",
+            "classname": "among-us",
+            "name": "Among us",
+            "date": "2022-01-19",
+            "description": "Among us gonna make huge change in the game. Join the event to find more and chat with others.",
+            "comments": []
+        }
+        
+    ]
+}
+

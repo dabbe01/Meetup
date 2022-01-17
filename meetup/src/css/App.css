@@ -1,0 +1,84 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+header{
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.meetup-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:rgba(160, 136, 136, 0.157);
+}
+.meetup-list{ 
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.meetup-li{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: solid black 2px;
+  margin: 20px;
+  height: 30vh;
+  width: 30vw;
+  border-radius: 20px;
+  background-color: white;
+
+}
+
+.card-name-date-header{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+}
+.hide-description-name{
+  margin-top: 40px;
+    display: flex;
+    height: 10vh;
+    flex-direction: column;
+    width: 20vw;
+    align-items: center;
+    justify-content: center;
+}
+
+.meetup-join-event-btn{
+  width: 5vw;
+  height: 5vh;
+  border-radius: 20px;
+  border: none;
+  background-color: darkgrey;
+  cursor: pointer;
+}
+
+.description{
+  margin: 20px;
+}
+
+.comment-card{
+  display: flex;
+    justify-content: center;
+}
+.member-comment{
+  display: flex;
+  flex-direction: column-reverse;
+  margin: 20px;
+}
+
+ul{
+  list-style: none;
+}
+
+
