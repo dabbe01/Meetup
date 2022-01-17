@@ -4,4 +4,4 @@ En Meetup är en sammankomst för personer med ett gemensamt intresse. Det kan h
 # User stories
 * Som en besökare vill jag se meetups som inträffar snart först, därför att de är mest intressanta för mig.
 * Som en besökare vill jag kunna anmäla mig till ett event.
-* Som en besökare vill jag kunna skriva i evenet efter jag har änmält mig till eventet.
+* Som en besökare vill jag kunna skriva i eventet efter jag har änmält mig till eventet.
